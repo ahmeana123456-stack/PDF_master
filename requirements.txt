@@ -1,4 +1,6 @@
 streamlit
+gTTS
+PyPDF2
 pdfplumber
 pandas
 reportlab
